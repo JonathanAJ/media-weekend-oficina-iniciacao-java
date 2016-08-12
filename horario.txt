@@ -1,0 +1,25 @@
+110min
+
+- 30min
+
+  Teoria: java inicial, olamundo, javac, pacotes, classes, método main, variáveis, encapsulamento, repetição, condição.
+  Prática: OlaMundo.java
+  Detalhes: Printa um texto no console, printa o texto 10 vezes.
+
+- 30min
+
+  Teoria: orientação a objetos, atributos, clausula new, gets e sets, métodos.
+  Prática: Pessoa.java, GerenciaPessoa.java
+  Detalhes: Printa informações de pessoas cadastradas
+
+- 20min
+
+  Teoria: API util, classe Scanner, lendo entrada do usuário, tratando com try catch
+  Prática: ScannerNumeros.java, Calculadora.java
+  Detalhes: Printa resultado de calculadora com dados do usuário
+
+- 30min
+
+  Teoria: manipulação de arquivos, classe File
+  Prática: Pessoa.java, GerenciaPessoa.java, CadastroMain.java
+  Detalhes: persiste objetos Pessoa em um arquivo txt no computador
